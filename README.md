@@ -23,6 +23,13 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+changes in part 1
+=================
+change the background
+enlarge the font, make space between the lines bigger, more readable<br>
+change the appearance of Transcriber’s Notes in 2.html<br>
+add picture border to picture in 3.html<br>
+backgroung image is from : https://www.w3schools.com/css/exercise.asp?filename=exercise_background2<br>
 
 
 
